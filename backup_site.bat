@@ -1,0 +1,1 @@
+robocopy -MIR \\192.168.1.10\publica "G:\Meu Drive\BACKUP_SITE"
