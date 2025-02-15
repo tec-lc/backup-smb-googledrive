@@ -5,3 +5,4 @@ Comando para execução de backup sincronizado em agenda no Windows
 
 	robocopy -MIR \\IP_SERVIDOR_SMB\NOME_PASTA_COMPARTILHADA "G:\Meu Drive\NOME_PASTA_GDRIVER"
 </br>
+<p>Depois abar o "Agendador de Tarefas" do Windows e crie uma tarefa para rodar o arquivo exe.vbs</p>
